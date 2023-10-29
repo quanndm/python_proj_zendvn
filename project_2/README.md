@@ -16,6 +16,6 @@ pip install -r requirements.txt
 
 ### step 4: run the project
 ```bash
-python speed-test.py
+python heads_and_tails.py
 
 ```
