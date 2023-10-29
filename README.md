@@ -6,6 +6,6 @@
 2. game coin flip
 3. Basic CRUD (grocery management)
 4. Online Learning web (Django)
-5. Task management (Django)
+5. Task management (console)
 6. Price of gold, coin (Django)
 7. RSS news (Django)
